@@ -61,7 +61,7 @@ O projeto foi estruturado seguindo os princípios de separação de conceitos e 
 
 O cálculo do IMC é realizado no objeto de domínio `BmiCalculator` aplicando a fórmula oficial:
 
-**IMC = Peso em kg * (Altura em metros + Altura em metros)**
+**IMC = Peso em kg * (Altura em metros * Altura em metros)**
 
 ### Tabela de Classificação da OMS:
 - **< 18.5**: ABAIXO DO PESO
