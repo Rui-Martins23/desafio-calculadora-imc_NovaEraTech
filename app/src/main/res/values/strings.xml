@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImcComposeDbRoom</string>
+    <string name="app_title">Calculadora IMC</string>
+    <string name="splash_subtitle">Seu app para calcular o IMC</string>
+</resources>
